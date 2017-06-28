@@ -1,5 +1,5 @@
-# Biblioteca
- SQLite  
+# Biblioteca SQLite  
+
 Aplicativo de registro de acervo de livros utilizando-se **SQLite** para armazenamento dos dados.  
 
 > Aplicativo desenvolvido em Android (Java)  
@@ -7,5 +7,5 @@ Aplicativo de registro de acervo de livros utilizando-se **SQLite** para armazen
 > -Utiliza Activity e FloatButton para adicionar Livros  
 
 
-Para mais informações:  
+Para mais informaÃ§Ãµes:  
 <felipe.braianitech@gmail.com>
