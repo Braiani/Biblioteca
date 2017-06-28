@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biblioteca com SQLite</string>
+
+    <string name="navigation_drawer_open">Abrir menu de navegação</string>
+    <string name="navigation_drawer_close">Fechar menu de navegação</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="titulo_livro">Digite o título do livro</string>
+    <string name="autor_livro">Digite o nome do autor do livro</string>
+    <string name="editora_livro">Digite a editora do livro</string>
+</resources>
